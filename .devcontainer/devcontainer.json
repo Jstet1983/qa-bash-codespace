@@ -1,6 +1,9 @@
-/
-├── .devcontainer/
-│   └── devcontainer.json
-├── scripts/
-│   └── hello.sh
-├── README.md
+{
+  "name": "VM-like Bash QA",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/bash:1": {},
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "postCreateCommand": "apt-get update && apt-get install -y jq curl sudo"
+}
