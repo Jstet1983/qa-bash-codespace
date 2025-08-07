@@ -1,0 +1,33 @@
+name: CmdBridge CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Make scripts executable
+      run: |
+        chmod +x cmdbridge/*.sh
+
+    - name: Run start.sh (dry run)
+      run: bash -n cmdbridge/start.sh
+
+    - name: Run codespace_autoconnect.sh (dry run)
+      run: bash -n cmdbridge/codespace_autoconnect.sh
+
+    - name: Run telemetry_report.sh (dry run)
+      run: bash -n cmdbridge/telemetry_report.sh
+
+    - name: Run telemetry_report.sh (execute)
+      run: bash cmdbridge/telemetry_report.sh
+
+    - name: Run start.sh (execute)
+      run: bash cmdbridge/start.sh
