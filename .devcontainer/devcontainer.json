@@ -1,5 +1,0 @@
-{
-  "name": "VM-like Bash QA",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "apt-get update && apt-get install -y jq curl sudo"
-}

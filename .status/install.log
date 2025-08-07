@@ -1,0 +1,176 @@
+[*] Starting pre-flight system check...
+[✓] proot is present
+[✓] curl is present
+[✓] wget is present
+[✓] git is present
+[✓] gh is present
+[✓] gpg is present
+[✓] ssh-keygen is present
+[✓] jq is present
+[✓] nano is present
+[✓] tee is present
+[!] Missing openssl. Attempting install...
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+openssl is already the newest version (1:3.5.1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] awk is present
+[✓] sed is present
+[✓] tr is present
+[✓] grep is present
+[✓] whoami is present
+[✓] hostname is present
+[*] Updating Termux packages and upgrading...
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://packages-cf.termux.dev/apt/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://packages-cf.termux.dev/apt/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[*] Installing Ubuntu via proot-distro...
+
+(B[m[36mSupported distributions (format: name < alias >):(B[m
+
+  (B[m[36m* (B[m[33mAdélie Linux (B[m[32m< adelie >(B[m
+  (B[m[36m* (B[m[33mAlpine Linux (B[m[32m< alpine >(B[m
+  (B[m[36m* (B[m[33mArch Linux (B[m[32m< archlinux >(B[m
+  (B[m[36m* (B[m[33mArtix Linux (B[m[32m< artix >(B[m
+  (B[m[36m* (B[m[33mChimera Linux (B[m[32m< chimera >(B[m
+  (B[m[36m* (B[m[33mDebian (bookworm) (B[m[32m< debian >(B[m
+  (B[m[36m* (B[m[33mdeepin (B[m[32m< deepin >(B[m
+  (B[m[36m* (B[m[33mFedora (B[m[32m< fedora >(B[m
+  (B[m[36m* (B[m[33mManjaro (B[m[32m< manjaro >(B[m
+  (B[m[36m* (B[m[33mOpenSUSE (B[m[32m< opensuse >(B[m
+  (B[m[36m* (B[m[33mPardus (B[m[32m< pardus >(B[m
+  (B[m[36m* (B[m[33mRocky Linux (B[m[32m< rockylinux >(B[m
+  (B[m[36m* (B[m[33mUbuntu (24.04) (B[m[32m< ubuntu >(B[m
+  (B[m[36m* (B[m[33mVoid Linux (B[m[32m< void >(B[m
+
+(B[m[36mInstall selected one with: (B[m[32mproot-distro install <alias>(B[m
+
+
+(B[m[1m[31mError: distribution '(B[m[33mubuntu(B[m[1m[31m' is already installed.(B[m
+
+(B[m[36mLog in:     (B[m[32mproot-distro login ubuntu(B[m
+(B[m[36mReinstall:  (B[m[32mproot-distro reset ubuntu(B[m
+(B[m[36mUninstall:  (B[m[32mproot-distro remove ubuntu(B[m
+
+[*] Starting pre-flight system check...
+[✓] proot is present
+[✓] curl is present
+[✓] wget is present
+[✓] git is present
+[✓] gh is present
+[✓] gpg is present
+[✓] ssh-keygen is present
+[✓] jq is present
+[✓] nano is present
+[✓] tee is present
+[!] Missing openssl. Attempting install...
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+openssl is already the newest version (1:3.5.1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] awk is present
+[✓] sed is present
+[✓] tr is present
+[✓] grep is present
+[✓] whoami is present
+[✓] hostname is present
+[*] Updating Termux packages and upgrading...
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://packages-cf.termux.dev/apt/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://packages-cf.termux.dev/apt/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[*] Installing Ubuntu via proot-distro...
+
+(B[m[36mSupported distributions (format: name < alias >):(B[m
+
+  (B[m[36m* (B[m[33mAdélie Linux (B[m[32m< adelie >(B[m
+  (B[m[36m* (B[m[33mAlpine Linux (B[m[32m< alpine >(B[m
+  (B[m[36m* (B[m[33mArch Linux (B[m[32m< archlinux >(B[m
+  (B[m[36m* (B[m[33mArtix Linux (B[m[32m< artix >(B[m
+  (B[m[36m* (B[m[33mChimera Linux (B[m[32m< chimera >(B[m
+  (B[m[36m* (B[m[33mDebian (bookworm) (B[m[32m< debian >(B[m
+  (B[m[36m* (B[m[33mdeepin (B[m[32m< deepin >(B[m
+  (B[m[36m* (B[m[33mFedora (B[m[32m< fedora >(B[m
+  (B[m[36m* (B[m[33mManjaro (B[m[32m< manjaro >(B[m
+  (B[m[36m* (B[m[33mOpenSUSE (B[m[32m< opensuse >(B[m
+  (B[m[36m* (B[m[33mPardus (B[m[32m< pardus >(B[m
+  (B[m[36m* (B[m[33mRocky Linux (B[m[32m< rockylinux >(B[m
+  (B[m[36m* (B[m[33mUbuntu (24.04) (B[m[32m< ubuntu >(B[m
+  (B[m[36m* (B[m[33mVoid Linux (B[m[32m< void >(B[m
+
+(B[m[36mInstall selected one with: (B[m[32mproot-distro install <alias>(B[m
+
+
+(B[m[1m[31mError: distribution '(B[m[33mubuntu(B[m[1m[31m' is already installed.(B[m
+
+(B[m[36mLog in:     (B[m[32mproot-distro login ubuntu(B[m
+(B[m[36mReinstall:  (B[m[32mproot-distro reset ubuntu(B[m
+(B[m[36mUninstall:  (B[m[32mproot-distro remove ubuntu(B[m
+
