@@ -1,0 +1,90 @@
+/data/data/com.termux/files/home/cmdbridge
+├── audit
+│   ├── audit_snapshot.sh
+│   └── install_audit_2025-08-07_02-03-26
+│       ├── dir_tree.txt
+│       ├── python_packages.txt
+│       └── termux_packages.txt
+├── build_progress.sh
+├── cmdbridge.sh
+├── codespace_autoconnect.sh
+├── data
+│   ├── po_log.csv
+│   └── po_log.json
+├── full_install.sh
+├── install_build_progress.sh
+├── install_telemetry_v14_20.sh
+├── installers
+│   ├── install_048.sh
+│   ├── install_049.sh
+│   ├── install_050.sh
+│   ├── install_051.sh
+│   ├── install_052.sh
+│   ├── install_053.sh
+│   ├── install_054.sh
+│   ├── install_055.sh
+│   ├── install_056.sh
+│   ├── install_057.sh
+│   ├── install_058.sh
+│   ├── install_059.sh
+│   ├── install_060.sh
+│   ├── install_061.sh
+│   ├── install_062.sh
+│   ├── install_063.sh
+│   ├── install_064.sh
+│   ├── install_065.sh
+│   ├── install_066.sh
+│   ├── install_067.sh
+│   ├── install_068.sh
+│   ├── install_069.sh
+│   ├── install_070.sh
+│   ├── install_071.sh
+│   ├── install_072.sh
+│   ├── install_073.sh
+│   ├── install_074.sh
+│   ├── install_075.sh
+│   ├── install_076.sh
+│   ├── install_077.sh
+│   ├── install_078.sh
+│   ├── install_079.sh
+│   ├── install_080.sh
+│   ├── install_081.sh
+│   ├── install_082.sh
+│   ├── install_083.sh
+│   ├── install_084.sh
+│   ├── install_085.sh
+│   ├── install_086.sh
+│   ├── install_087.sh
+│   ├── install_088.sh
+│   ├── install_089.sh
+│   ├── install_090.sh
+│   ├── install_091.sh
+│   ├── install_092.sh
+│   ├── install_093.sh
+│   ├── install_094.sh
+│   ├── install_095.sh
+│   ├── install_096.sh
+│   ├── install_097.sh
+│   ├── install_098.sh
+│   ├── install_099.sh
+│   ├── install_100.sh
+│   ├── install_101.sh
+│   ├── install_102.sh
+│   └── install_103.sh
+├── logs
+│   ├── build_all_iters.log
+│   ├── full_install_2025-08-07_02-00-43.log
+│   ├── iter_048.log
+│   ├── iter_status.log
+│   └── po_record.log
+├── modules
+│   ├── po_record.sh
+│   └── self_heal_core.sh
+├── regen_push_install.sh
+├── regenerate_installers.sh
+├── run_all_installers.sh
+├── setup_cron_telemetry.sh
+├── start.sh
+└── telemetry_report.sh
+
+7 directories, 81 files

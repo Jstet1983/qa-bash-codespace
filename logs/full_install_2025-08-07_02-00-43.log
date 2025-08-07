@@ -1,0 +1,597 @@
+[+] Starting full stack installation...
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_048.sh
+[+] Installing: curl
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+curl is already the newest version (8.15.0).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_048.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_049.sh
+[+] Installing: git
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+git is already the newest version (2.50.1-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_049.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_050.sh
+[+] Installing: tar
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+tar is already the newest version (1.35).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_050.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_051.sh
+[+] Installing: wget
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+wget is already the newest version (1.25.0).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_051.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_052.sh
+[+] Installing: nano
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nano is already the newest version (8.5-2).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_052.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_053.sh
+[+] Installing: neovim
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+neovim is already the newest version (0.11.3).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_053.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_054.sh
+[+] Installing: jq
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+jq is already the newest version (1.8.1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_054.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_055.sh
+[+] Installing: unzip
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+unzip is already the newest version (6.0-9).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_055.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_056.sh
+[+] Installing: zip
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+zip is already the newest version (3.0-5).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_056.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_057.sh
+[+] Installing: coreutils
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+coreutils is already the newest version (9.7-2).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_057.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_058.sh
+[+] Installing: dnsutils
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+dnsutils is already the newest version (9.20.11).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_058.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_059.sh
+[+] Installing: busybox
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+busybox is already the newest version (1.37.0-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_059.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_060.sh
+[+] Installing: net-tools
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+net-tools is already the newest version (2.10.0).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_060.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_061.sh
+[+] Installing: clang
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+clang is already the newest version (20.1.8).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_061.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_062.sh
+[+] Installing: make
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+make is already the newest version (4.4.1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_062.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_063.sh
+[+] Installing: python
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python is already the newest version (3.12.11).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_063.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_064.sh
+[+] Installing: nodejs
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nodejs is already the newest version (24.5.0).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_064.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_065.sh
+[+] Installing: tsu
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+tsu is already the newest version (8.6.0-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_065.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_066.sh
+[+] Installing: proot
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+proot is already the newest version (5.1.107-65).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_066.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_067.sh
+[+] Installing: openssh
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+openssh is already the newest version (10.0p2-8).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_067.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_068.sh
+[+] Installing: zsh
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+zsh is already the newest version (5.9-8).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_068.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_069.sh
+[+] Installing: tmux
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+tmux is already the newest version (3.5a).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_069.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_070.sh
+[+] Installing: vim
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+vim is already the newest version (9.1.1550).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_070.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_071.sh
+[+] Installing: grep
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+grep is already the newest version (3.12-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_071.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_072.sh
+[+] Installing: sed
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+sed is already the newest version (4.9-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[✓] Completed: /data/data/com.termux/files/home/cmdbridge/installers/install_072.sh
+[*] Running: /data/data/com.termux/files/home/cmdbridge/installers/install_073.sh
+[+] Installing: awk
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://mirror.autkin.net/termux/termux-main stable InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+Checking availability of current mirror:
+[*] https://mirror.autkin.net/termux/termux-main: ok
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package awk
